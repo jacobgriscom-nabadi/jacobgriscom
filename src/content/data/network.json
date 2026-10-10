@@ -1,0 +1,140 @@
+{
+  "communities": [
+    {
+      "id": "246-happenings",
+      "name": "246 Happenings",
+      "relationship": "Owner & Builder",
+      "group": "communities",
+      "summary": "A hidden gem in downtown Grass Valley transformed into a living community project. Multiple units (The Nest, The Den, The Hideaway), a garden sanctuary, outdoor kitchen, and regular happenings including networking events, Saturday brunches, and intimate garden concerts.",
+      "websiteUrl": "https://246happenings.com"
+    },
+    {
+      "id": "servants-heroes",
+      "name": "School for Servants & Heroes",
+      "relationship": "Student & Community Member",
+      "group": "communities",
+      "summary": "Students of American spiritual teacher J Jaye Gold (Justin), living in community, meditating, traveling, doing service work, and passing on knowledge from decades of self-study and exploration. Life is the school.",
+      "websiteUrl": "https://servantsandheroes.net"
+    },
+    {
+      "id": "network-school",
+      "name": "Network School",
+      "relationship": "Ambassador",
+      "group": "communities",
+      "summary": "A frontier community for techno-optimists. A startup society including remote workers, digital nomads, online creators, and engineers. Building yourself up while building a startup society that bootstraps other startup societies.",
+      "websiteUrl": "https://ns.com/jacobgriscom/invite"
+    }
+  ],
+  "professional": [
+    {
+      "id": "rb-communications",
+      "name": "R&B Communications",
+      "relationship": "CEO & Owner",
+      "group": "professional",
+      "summary": "Managed IT services, software development, workflow automation, and digital marketing. Specialized charter school solutions through RB Schools including enrollment systems (SELS), audit compliance tracking (ACTS), curriculum guides, and AI-powered chatbots.",
+      "websiteUrl": "https://www.rb-com.com",
+      "additionalLinks": [
+        {
+          "label": "RB Schools",
+          "url": "https://rb-schools.com"
+        }
+      ]
+    },
+    {
+      "id": "ai-edtech-mastermind",
+      "name": "AI & EdTech MasterMind for Charter Schools",
+      "relationship": "Facilitator",
+      "group": "professional",
+      "summary": "A free community of innovative schools and technology partners. Monthly MasterMind sessions, an EdTech Library with AI ChatBot, and a member forum for sharing what's working, discovering new tools, and implementing solutions that drive efficiency and student success.",
+      "websiteUrl": "https://portal.rb-com.com"
+    },
+    {
+      "id": "ncbn",
+      "name": "Nevada County Business Network",
+      "relationship": "Member",
+      "group": "professional",
+      "summary": "Supporting professionals who meet weekly to give each other business referrals. Core values: positive attitude, servant leadership, commitment to customers, continuous learning, celebration, and teamwork. Based in Grass Valley, CA.",
+      "websiteUrl": "https://nevadacountybusiness.com"
+    },
+    {
+      "id": "ccns",
+      "name": "Center for Cultural & Naturalist Studies",
+      "relationship": "Volunteer",
+      "group": "professional",
+      "summary": "A California 501(c)(3) nonprofit organizing service projects at home and abroad for over thirty years. Projects range from housing reconstruction after Hurricane Katrina to teaching English to street children in India to building clinics for Burmese refugees in Thailand.",
+      "websiteUrl": "https://ccns-inc.org"
+    },
+    {
+      "id": "debatehub",
+      "name": "DebateHUB",
+      "relationship": "Founder & Designer",
+      "group": "professional",
+      "summary": "A competitive platform for structured debate built on principles like chess: formal rules, transparent evaluation, and skill progression. Converting disagreement into a measurable skill and restoring adversarial reasoning as a public good.",
+      "websiteUrl": "https://debatehub.network"
+    }
+  ],
+  "collaborators": [
+    {
+      "id": "justin-gold",
+      "name": "J Jaye Gold (Justin)",
+      "relationship": "Teacher & Mentor",
+      "group": "collaborators",
+      "summary": "An American spiritual master dedicated to the study of human behavior for over 40 years. Founder of the School for Servants & Heroes and the Center for Cultural & Naturalist Studies. Author of 'The Currency of Moments' and 'In The Company of Servants & Heroes.'",
+      "websiteUrl": "https://justingold.net"
+    },
+    {
+      "id": "balaji",
+      "name": "Balaji Srinivasan",
+      "relationship": "Network School Founder",
+      "group": "collaborators",
+      "summary": "Author of 'The Network State' which explains how to build the successor to the nation state. Technology has enabled us to start new companies, new communities, and new currencies—can we use it to start new cities, or even new countries?",
+      "websiteUrl": "https://thenetworkstate.com",
+      "additionalLinks": [
+        {
+          "label": "X",
+          "url": "https://x.com/balajis"
+        }
+      ]
+    }
+  ],
+  "familyFriends": [
+    {
+      "id": "ethan-griscom",
+      "name": "Ethan Griscom",
+      "relationship": "",
+      "group": "familyFriends",
+      "summary": "Ethan Griscom is a St. John's College graduate with a rigorous classical education and a strong physical discipline. An avid boulderer and route setter, he balances intellectual depth with embodied practice. He is a world traveler, currently studying Chinese in preparation for teaching abroad, and is pursuing a pre-med track in Physical Therapy.",
+      "additionalLinks": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/ethangriscom/"
+        }
+      ]
+    },
+    {
+      "id": "elijah-griscom",
+      "name": "Elijah Griscom",
+      "relationship": "",
+      "group": "familyFriends",
+      "summary": "Elijah Griscom is a professional cliff jumper, dedicated snowboarder, and high-risk adventurer. He orients toward intensity, movement, and direct experience, translating this lifestyle into creative output as a content creator centered on exploration and physical mastery.",
+      "additionalLinks": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/elijahgriscom_xl/"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/@elijahgriscom_xl"
+        }
+      ]
+    },
+    {
+      "id": "sarah-griscom",
+      "name": "Sarah Griscom",
+      "relationship": "",
+      "group": "familyFriends",
+      "summary": "Sarah Griscom is a professional somatic coach, bodyworker, and certified Skills for Change facilitator. Her work focuses on embodied awareness, nervous system regulation, and practical transformation, integrating experiential practices with grounded interpersonal guidance.",
+      "websiteUrl": "https://sarahgriscom.com"
+    }
+  ]
+}

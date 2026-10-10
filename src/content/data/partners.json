@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Nevada County Business Network (NCBN)",
+    "description": "A local network of business owners oriented toward collaboration, service, and long-term stewardship. Alignment matters more than scale. Teamwork and servant leadership are the filter.",
+    "href": "/work/ncbn"
+  },
+  {
+    "name": "246 Happenings",
+    "description": "A community events platform rooted in shared experience, creativity, and presence. Volunteers are welcomed, included, and rewarded for helping bring events to life and expand local awareness.",
+    "href": "/network"
+  },
+  {
+    "name": "Network School",
+    "description": "As an ambassador, my focus is on serious conversations around startup communities and startup countries. This is for pioneers interested in visiting, learning, contributing, and testing new social and economic models.",
+    "href": "/network",
+    "external": "https://ns.com/jacobgriscom/invite"
+  },
+  {
+    "name": "AI & EdTech MasterMind",
+    "description": "A gathering point for early adopters and builders working at the intersection of AI, technology, and the future of education. Exploration, implementation, and real-world experimentation over theory.",
+    "href": "/work/ai-edtech-mastermind"
+  }
+]

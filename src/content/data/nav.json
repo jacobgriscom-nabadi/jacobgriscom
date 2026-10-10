@@ -1,0 +1,48 @@
+{
+  "main": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Stories",
+      "href": "/stories"
+    },
+    {
+      "label": "Work",
+      "href": "/work"
+    },
+    {
+      "label": "Music",
+      "href": "/music"
+    }
+  ],
+  "secondary": [
+    {
+      "label": "Now",
+      "href": "/updates"
+    },
+    {
+      "label": "Awareness",
+      "href": "/library"
+    },
+    {
+      "label": "Network",
+      "href": "/network"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "meta": [
+    {
+      "label": "Privacy",
+      "href": "/privacy"
+    },
+    {
+      "label": "Colophon",
+      "href": "/colophon"
+    }
+  ]
+}

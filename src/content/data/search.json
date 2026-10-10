@@ -1,0 +1,225 @@
+[
+  {
+    "type": "story",
+    "slug": "nabadi",
+    "title": "Nabadi",
+    "summary": "The inner work, poems, and presence practices that form the foundation",
+    "tags": [
+      "presence",
+      "identity",
+      "practice"
+    ],
+    "url": "/stories/nabadi"
+  },
+  {
+    "type": "story",
+    "slug": "utopia",
+    "title": "Alignment with Sustainable Abundance & The Network State",
+    "summary": "A vision written March 2020, Balaji Srinivasan, and The Network State",
+    "tags": [
+      "vision",
+      "network-state",
+      "balaji"
+    ],
+    "url": "/stories/utopia"
+  },
+  {
+    "type": "work",
+    "slug": "rb-communications",
+    "title": "R&B Communications",
+    "summary": "CEO, Board Chair, Owner - building communication infrastructure",
+    "tags": [
+      "leadership",
+      "networks"
+    ],
+    "url": "/work/rb-communications"
+  },
+  {
+    "type": "work",
+    "slug": "ai-edtech-mastermind",
+    "title": "AI & EdTech MasterMind",
+    "summary": "Charter school innovation",
+    "tags": [
+      "education",
+      "ai"
+    ],
+    "url": "/work/ai-edtech-mastermind"
+  },
+  {
+    "type": "work",
+    "slug": "ncbn",
+    "title": "Nevada County Business Network",
+    "summary": "Connecting local businesses and building community",
+    "tags": [
+      "networks",
+      "community"
+    ],
+    "url": "/work/ncbn"
+  },
+  {
+    "type": "work",
+    "slug": "compart",
+    "title": "COMPART",
+    "summary": "Coordination infrastructure for networked communities",
+    "tags": [
+      "networks",
+      "coordination"
+    ],
+    "url": "/work/compart"
+  },
+  {
+    "type": "music",
+    "slug": "first-light",
+    "title": "First Light",
+    "summary": "An exploration of dawn through AI-generated sound",
+    "tags": [
+      "ai-music",
+      "experimental"
+    ],
+    "url": "/music/tracks/first-light"
+  },
+  {
+    "type": "update",
+    "slug": "arc-and-fork",
+    "title": "Arc and Fork: Scaled Cycles and the Choice Point",
+    "summary": "Civilizations move in arcs. At predictable moments, those arcs reach forks.",
+    "tags": [
+      "network-state",
+      "compart",
+      "cycles",
+      "civilization"
+    ],
+    "url": "/updates#arc-and-fork"
+  },
+  {
+    "type": "update",
+    "slug": "network-unions-education",
+    "title": "Network Unions: Education After Fragmentation",
+    "summary": "Education failed because we removed it from life. Network Unions reverse the fragmentation.",
+    "tags": [
+      "network-state",
+      "education",
+      "compart",
+      "network-unions"
+    ],
+    "url": "/updates#network-unions-education-after-fragmentation"
+  },
+  {
+    "type": "update",
+    "slug": "now",
+    "title": "Now",
+    "summary": "Notes on what I'm working on, learning, and thinking about",
+    "tags": [
+      "updates",
+      "reflection"
+    ],
+    "url": "/updates"
+  },
+  {
+    "type": "library",
+    "slug": "negative-emotion-cycles",
+    "title": "Real Time Data from Negative Emotion Cycles",
+    "summary": "The 9 irreducible negative emotions and how compound states decompose into their combinations",
+    "tags": [
+      "perception",
+      "practice",
+      "tools"
+    ],
+    "url": "/library#negative-emotion-cycles"
+  },
+  {
+    "type": "library",
+    "slug": "a-list-media",
+    "title": "A-List Media",
+    "summary": "A canon for people who sense that something essential has gone missing—books and movies that invite crossing thresholds with heart",
+    "tags": [
+      "perception",
+      "reference",
+      "books",
+      "movies"
+    ],
+    "url": "/library#a-list-media"
+  },
+  {
+    "type": "library",
+    "slug": "awareness",
+    "title": "Awareness",
+    "summary": "Explorations of perception, meditation, and releasing interference",
+    "tags": [
+      "awareness",
+      "meditation"
+    ],
+    "url": "/library"
+  },
+  {
+    "type": "network",
+    "slug": "network",
+    "title": "Network",
+    "summary": "People, communities, and connections",
+    "tags": [
+      "community",
+      "connections"
+    ],
+    "url": "/network"
+  },
+  {
+    "type": "network",
+    "slug": "246-happenings",
+    "title": "246 Happenings",
+    "summary": "A living community project in downtown Grass Valley with multiple units, garden sanctuary, and regular happenings",
+    "tags": [
+      "community",
+      "grass-valley",
+      "property"
+    ],
+    "url": "/network#246-happenings"
+  },
+  {
+    "type": "network",
+    "slug": "servants-heroes",
+    "title": "School for Servants & Heroes",
+    "summary": "Students of J Jaye Gold living in community, meditating, and doing service work",
+    "tags": [
+      "spiritual",
+      "community",
+      "meditation"
+    ],
+    "url": "/network#servants-heroes"
+  },
+  {
+    "type": "network",
+    "slug": "network-school",
+    "title": "Network School",
+    "summary": "A frontier community for techno-optimists, building startup societies",
+    "tags": [
+      "startup-society",
+      "balaji",
+      "network-state"
+    ],
+    "url": "/network#network-school"
+  },
+  {
+    "type": "network",
+    "slug": "justin-gold",
+    "title": "J Jaye Gold (Justin)",
+    "summary": "American spiritual master, author, founder of School for Servants & Heroes",
+    "tags": [
+      "teacher",
+      "spiritual",
+      "mentor"
+    ],
+    "url": "/network#justin-gold"
+  },
+  {
+    "type": "network",
+    "slug": "balaji",
+    "title": "Balaji Srinivasan",
+    "summary": "Author of The Network State, building the successor to the nation state",
+    "tags": [
+      "network-state",
+      "technology",
+      "visionary"
+    ],
+    "url": "/network#balaji"
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "nabadi": [
+    {
+      "href": "/stories/life-arc",
+      "title": "Life Arc",
+      "summary": "The biography behind the name."
+    },
+    {
+      "href": "/library",
+      "title": "Awareness",
+      "summary": "Explorations of perception and meditation."
+    },
+    {
+      "href": "/updates",
+      "title": "Now",
+      "summary": "Current reflections and signs."
+    }
+  ],
+  "life-arc": [
+    {
+      "href": "/music/tracks/biography",
+      "title": "Biography",
+      "summary": "The companion piece — same arc, through poetry and sound."
+    },
+    {
+      "href": "/stories/nabadi",
+      "title": "Nabadi",
+      "summary": "The name that arrived at the waterfall."
+    },
+    {
+      "href": "/library",
+      "title": "Awareness",
+      "summary": "Explorations of perception and meditation."
+    },
+    {
+      "href": "/network",
+      "title": "Network",
+      "summary": "Communities and connections."
+    }
+  ],
+  "my-political-journey": [
+    {
+      "href": "/music/tracks/1950s-america",
+      "title": "1950s America",
+      "summary": "A panoramic audit of the 1950s mythos."
+    },
+    {
+      "href": "/music/tracks/bought-and-sold",
+      "title": "Bought and Sold",
+      "summary": "Moral compression under economic gravity."
+    },
+    {
+      "href": "/music/tracks/promise-of-control",
+      "title": "Promise of Control",
+      "summary": "Early conditioning as quiet capture."
+    },
+    {
+      "href": "/music/tracks/hard-core-shit",
+      "title": "Hard Core Shit",
+      "summary": "Masculinity-as-noise, bravado stacked until collapse."
+    },
+    {
+      "href": "/stories/life-arc",
+      "title": "Life Arc",
+      "summary": "The biography behind the political awakening."
+    }
+  ],
+  "utopia": [
+    {
+      "href": "/work/compart",
+      "title": "COMPART",
+      "summary": "The practical infrastructure for networked coordination."
+    },
+    {
+      "href": "/stories/nabadi",
+      "title": "Nabadi",
+      "summary": "The inner work that makes outer change possible."
+    }
+  ]
+}

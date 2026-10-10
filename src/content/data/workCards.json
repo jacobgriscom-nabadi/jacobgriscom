@@ -1,0 +1,95 @@
+[
+  {
+    "href": "/work/rb-communications",
+    "title": "R&B Communications",
+    "summary": "Managed IT services, software development, workflow automation, and digital marketing. Specialized solutions for charter schools including enrollment systems, compliance tracking, and AI-powered tools.",
+    "metadata": "Active",
+    "tags": [
+      "technology",
+      "charter-schools",
+      "software",
+      "marketing"
+    ]
+  },
+  {
+    "href": "/work/ai-edtech-mastermind",
+    "title": "AI & EdTech MasterMind",
+    "summary": "Bringing AI innovation to charter school education. A collaborative network of education leaders exploring the frontier of learning technology.",
+    "metadata": "Active",
+    "tags": [
+      "education",
+      "ai",
+      "charter-schools"
+    ]
+  },
+  {
+    "href": "/work/ncbn",
+    "title": "Nevada County Business Network",
+    "summary": "Promoting Nevada County businesses with enthusiasm. Founded and built the referral tracking platform that powers weekly networking across Grass Valley, Nevada City, and beyond.",
+    "metadata": "Active",
+    "tags": [
+      "networks",
+      "community",
+      "local",
+      "technology"
+    ]
+  },
+  {
+    "href": "/work/compart",
+    "title": "COMPART",
+    "summary": "Coordination infrastructure for networked communities. Building the tools and protocols that enable distributed collaboration at scale.",
+    "metadata": "Active",
+    "tags": [
+      "networks",
+      "coordination",
+      "technology"
+    ]
+  },
+  {
+    "href": "/work/debatehub",
+    "title": "DebateHUB",
+    "summary": "A competitive platform for structured debate. Formal rules, transparent evaluation, and skill progression — converting disagreement into a measurable skill.",
+    "metadata": "Building",
+    "tags": [
+      "debate",
+      "reasoning",
+      "civic-infrastructure",
+      "ai"
+    ]
+  },
+  {
+    "href": "/work/vitalpool",
+    "title": "VitalPool",
+    "summary": "A competitive health accountability platform. Stake capital, track verified health data, and compete — converting intention into measurable change through aligned incentives.",
+    "metadata": "Building",
+    "tags": [
+      "health",
+      "accountability",
+      "incentives",
+      "competition"
+    ]
+  },
+  {
+    "href": "/work/crypto-sovereignty-setup",
+    "title": "Crypto Sovereignty Setup",
+    "summary": "Private 1:1 consulting for durable financial optionality. Three sessions covering exchange setup, software wallets, and cold storage — moving from awareness to correct execution.",
+    "metadata": "$1,250",
+    "tags": [
+      "consulting",
+      "crypto",
+      "sovereignty",
+      "security"
+    ]
+  },
+  {
+    "href": "/grow-your-ayurvedic-business",
+    "title": "Grow Your Ayurvedic Business",
+    "summary": "A comprehensive guide to building a successful Ayurvedic practice. Includes digital copy and complimentary coaching session.",
+    "metadata": "Book",
+    "tags": [
+      "ayurveda",
+      "business",
+      "coaching"
+    ]
+  }
+]

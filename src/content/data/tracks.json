@@ -1,0 +1,496 @@
+[
+  {
+    "slug": "quid-pro-quo",
+    "title": "Quid Pro Quo",
+    "summary": "Transactional distrust. Interrogating hidden costs behind offers, deals, and alliances.",
+    "metadata": "2017",
+    "tags": [
+      "transaction",
+      "trust",
+      "skepticism",
+      "exchange"
+    ],
+    "src": "/assets/Quid_Pro_Quo_1768740837587-mHUqZUSH.mp3",
+    "duration": 130
+  },
+  {
+    "slug": "my-tongue",
+    "title": "My Tongue",
+    "summary": "Identity conflict and voice reclamation. Wanting to speak from origin while addicted to performance.",
+    "metadata": "2017",
+    "tags": [
+      "identity",
+      "authenticity",
+      "performance",
+      "self-awareness"
+    ],
+    "src": "/assets/My_Tongue_1768741960439-CjN1Ptyp.mp3",
+    "duration": 158
+  },
+  {
+    "slug": "1950s-america",
+    "title": "1950s America",
+    "summary": "A panoramic audit of the 1950s mythos. Nostalgia invoked, then stress-tested.",
+    "metadata": "2017",
+    "tags": [
+      "nostalgia",
+      "history",
+      "America",
+      "critique",
+      "progress"
+    ],
+    "src": "/assets/1950s_America_(1)_1769260602763-BI_HEOyK.mp3",
+    "duration": 265
+  },
+  {
+    "slug": "isuck",
+    "title": "iSuck",
+    "summary": "Self-sabotage as performance critique. Art versus algorithm, winning feels empty but still counts.",
+    "metadata": "2017",
+    "tags": [
+      "self-doubt",
+      "social-media",
+      "authenticity",
+      "attention-economy"
+    ],
+    "src": "/assets/iSuck_1768808344448-BkxlK62X.mp3",
+    "duration": 139
+  },
+  {
+    "slug": "midwife-my-life",
+    "title": "Midwife My Life",
+    "summary": "Growth as emergence, not rescue. Vulnerability meets irony when self-help promises meet lived experience.",
+    "metadata": "2017",
+    "tags": [
+      "growth",
+      "emergence",
+      "vulnerability",
+      "self-help",
+      "irony"
+    ],
+    "src": "/assets/Midwife_My_Life_1769318686357-DdMLD8x3.mp3",
+    "duration": 222
+  },
+  {
+    "slug": "a-little-story",
+    "title": "A Little Story",
+    "summary": "Creative urgency meets visibility anxiety. Surreal dreams dissolve into the question: how will they hear me?",
+    "metadata": "2017",
+    "tags": [
+      "creativity",
+      "visibility",
+      "anxiety",
+      "dreaming",
+      "uncertainty"
+    ],
+    "src": "/assets/A_Little_Story_1769318998497-CXe20o83.mp3",
+    "duration": 97
+  },
+  {
+    "slug": "hard-core-shit",
+    "title": "Hard Core Shit",
+    "summary": "Masculinity-as-noise. Bravado stacked until it collapses under its own absurdity.",
+    "metadata": "2017",
+    "tags": [
+      "masculinity",
+      "bravado",
+      "absurdity",
+      "satire",
+      "noise"
+    ],
+    "src": "/assets/Hard_Core_Shit_1769320076290-ZODo8zQG.mp3",
+    "duration": 96
+  },
+  {
+    "slug": "att",
+    "title": "AT&T",
+    "summary": "Corporate captivity as Stockholm syndrome. Automated phone trees, hold music, and the absurdity of modern customer service.",
+    "metadata": "2017",
+    "tags": [
+      "frustration",
+      "corporate-satire",
+      "captivity",
+      "humor",
+      "consumer-experience"
+    ],
+    "src": "/assets/AT_T_(1)_1769428936879-BDzf0mkq.mp3",
+    "duration": 113
+  },
+  {
+    "slug": "hearts-gone-crazy",
+    "title": "Heart's Gone Crazy",
+    "summary": "Acute anxiety as phonetic slippage. Panic narrated with wit, ending in bodily grounding.",
+    "metadata": "2018",
+    "tags": [
+      "anxiety",
+      "overwhelm",
+      "breakdown",
+      "humor",
+      "self-awareness"
+    ],
+    "src": "/assets/Heart's_Gone_Crazy_(1)_1769321204604-DBIkP28X.mp3",
+    "duration": 160
+  },
+  {
+    "slug": "pride-suicide",
+    "title": "Pride Suicide",
+    "summary": "Ego collapse staged as bravado. Pride becomes armor and noose; clout fails under scarcity.",
+    "metadata": "2018",
+    "tags": [
+      "ego",
+      "loneliness",
+      "vulnerability",
+      "bravado",
+      "failure"
+    ],
+    "src": "/assets/Pride_Suicide_1768809919708-zZFKY1pE.mp3",
+    "duration": 286
+  },
+  {
+    "slug": "blame-dad",
+    "title": "Blame Dad",
+    "summary": "Intergenerational wound processing. Blame as shorthand for origin pain; regulation at the seeds.",
+    "metadata": "2018",
+    "tags": [
+      "intergenerational-trauma",
+      "shame",
+      "regulation",
+      "vulnerability",
+      "self-awareness"
+    ],
+    "src": "/assets/Blame_Dad_1768810864266-C5aa8EP1.mp3",
+    "duration": 200
+  },
+  {
+    "slug": "cutting-mother",
+    "title": "Cutting Mother",
+    "summary": "Severance as initiation. Separation from inherited identity through rupture and self-reinvention.",
+    "metadata": "2018",
+    "tags": [
+      "separation",
+      "identity",
+      "creativity",
+      "rupture",
+      "reinvention"
+    ],
+    "src": "/assets/Cutting_Mother_1768811382489-Co1Sbk3G.mp3",
+    "duration": 166
+  },
+  {
+    "slug": "poet-lover-fool",
+    "title": "Poet, Lover, Fool",
+    "summary": "Integration arc. Reframing creation as presence, intimacy, and risk over optimization.",
+    "metadata": "2018",
+    "tags": [
+      "identity",
+      "creativity",
+      "religion",
+      "control",
+      "mission",
+      "presence"
+    ],
+    "src": "/assets/Poet__Lover__Fool_1768877519571-Uryt331M.mp3",
+    "duration": 189
+  },
+  {
+    "slug": "dating",
+    "title": "Dating",
+    "summary": "Exploratory vulnerability. Dating as liminal practice—skill-building versus soul-mate fantasy.",
+    "metadata": "2018",
+    "tags": [
+      "vulnerability",
+      "relationships",
+      "self-discovery",
+      "longing",
+      "humor"
+    ],
+    "src": "/assets/Dating_1768879943680-D1ZrNW5V.mp3",
+    "duration": 213
+  },
+  {
+    "slug": "poly-jesus",
+    "title": "Poly Jesus",
+    "summary": "Manic overflow resolving into moral longing—hunger for distributed forgiveness.",
+    "metadata": "2018",
+    "tags": [
+      "ego",
+      "overflow",
+      "grace",
+      "forgiveness",
+      "humility"
+    ],
+    "src": "/assets/Poly_Jesus_1768891021457-CDP8psep.mp3",
+    "duration": 112
+  },
+  {
+    "slug": "rip-current",
+    "title": "Rip Current",
+    "summary": "Momentum without control—attraction plus ego pulling someone away from safety.",
+    "metadata": "2018",
+    "tags": [
+      "momentum",
+      "desire",
+      "hazard",
+      "self-exposure",
+      "clarity"
+    ],
+    "src": "/assets/Rip_Current_1768891734988-D_v1ebUx.mp3",
+    "duration": 72
+  },
+  {
+    "slug": "hangin-with-myself",
+    "title": "Hangin' with Myself",
+    "summary": "Self-attachment as stability—solitude as chosen companionship rather than lack.",
+    "metadata": "2018",
+    "tags": [
+      "self-love",
+      "solitude",
+      "routine",
+      "humor",
+      "affirmation"
+    ],
+    "src": "/assets/Hangin'_with_Myself_1768964053581-claG9IIp.mp3",
+    "duration": 108
+  },
+  {
+    "slug": "forces-inside-me",
+    "title": "Forces Inside Me",
+    "summary": "Multiplicity without a controller—identity as forces arising and dissolving moment-to-moment.",
+    "metadata": "2015",
+    "tags": [
+      "identity",
+      "multiplicity",
+      "awareness",
+      "humility",
+      "becoming"
+    ],
+    "src": "/assets/Forces_Inside_Me_1771554694272-CnjzEp7_.mp3",
+    "duration": 265
+  },
+  {
+    "slug": "money",
+    "title": "Money",
+    "summary": "Anxiety loop named out loud—money as nervous system regulator, self-talk spirals, and finding grounding through persistence.",
+    "metadata": "2019",
+    "tags": [
+      "anxiety",
+      "self-talk",
+      "grounding",
+      "endurance",
+      "nervous-system"
+    ],
+    "src": "/assets/Money_1768902132946-DssGDONq.mp3",
+    "duration": 140
+  },
+  {
+    "slug": "nature-of-man",
+    "title": "Nature of Man",
+    "summary": "Playful inquiry into human capability versus impulse—divine plans alongside canned spam.",
+    "metadata": "2018",
+    "tags": [
+      "inquiry",
+      "impulse",
+      "awareness",
+      "humor",
+      "acceptance"
+    ],
+    "src": "/assets/Nature_of_Man_1768964833206-B3DpLb0R.mp3",
+    "duration": 74
+  },
+  {
+    "slug": "please-save-me",
+    "title": "Please Save Me",
+    "summary": "Cognitive overload seeking rescue—90s boom-bap aesthetic narrating sensory saturation and dissociation.",
+    "metadata": "2018",
+    "tags": [
+      "overload",
+      "dissociation",
+      "grounding",
+      "media",
+      "identity"
+    ],
+    "src": "/assets/Please_Save_Me_1768965355909-BQXl-26y.mp3",
+    "duration": 94
+  },
+  {
+    "slug": "undigested-mind-stuff",
+    "title": "Undigested Mind Stuff",
+    "summary": "Creative intervention framed as surgical intimacy—bypassing intellect to access imagination and feeling.",
+    "metadata": "2018",
+    "tags": [
+      "creativity",
+      "intellect",
+      "feeling",
+      "authenticity",
+      "play"
+    ],
+    "src": "/assets/Undigested_Mind_Stuff_1768966193199-DTbNq0u8.mp3",
+    "duration": 137
+  },
+  {
+    "slug": "promise-of-control",
+    "title": "Promise of Control",
+    "summary": "Early conditioning as quiet capture—tracing how comfort is traded for systems that hollow trust and presence.",
+    "metadata": "2018",
+    "tags": [
+      "conditioning",
+      "trust",
+      "systems",
+      "alienation",
+      "childhood"
+    ],
+    "src": "/assets/Promise_of_Control_1768966777978-CvWkrhim.mp3",
+    "duration": 182
+  },
+  {
+    "slug": "viola",
+    "title": "Viola",
+    "summary": "Small domestic ritual as intimacy—presence-through-absence, care expressed indirectly, magic left behind.",
+    "metadata": "2025",
+    "tags": [
+      "intimacy",
+      "presence",
+      "absence",
+      "care",
+      "ritual"
+    ],
+    "src": "/assets/Viola_1769044403248-DoXoq4R2.mp3",
+    "duration": 81
+  },
+  {
+    "slug": "bought-and-sold",
+    "title": "Bought and Sold",
+    "summary": "Moral compression under economic gravity—questioning whether hardness or bravado is a response to being commodified.",
+    "metadata": "2018",
+    "tags": [
+      "commodification",
+      "morality",
+      "power",
+      "wordplay",
+      "critique"
+    ],
+    "src": "/assets/Bought_and_Sold_1769045164545-DjU2q4ku.mp3",
+    "duration": 57
+  },
+  {
+    "slug": "serious-or-jest",
+    "title": "Serious or Jest",
+    "summary": "Vitality versus mortality framed as play—learning through motion rather than control.",
+    "metadata": "2018",
+    "tags": [
+      "vitality",
+      "mortality",
+      "identity",
+      "play",
+      "risk"
+    ],
+    "src": "/assets/Serious_or_Jest_1769045558806-CwGQk0GW.mp3",
+    "duration": 112
+  },
+  {
+    "slug": "heart-string",
+    "title": "Heart String",
+    "summary": "Voluntary vulnerability—love as a tensile line, going all in not to win but to begin.",
+    "metadata": "2019",
+    "tags": [
+      "love",
+      "vulnerability",
+      "risk",
+      "renewal",
+      "connection"
+    ],
+    "src": "/assets/Heart_String_(2)_1769325345921-BxaTWZwm.mp3",
+    "duration": 219
+  },
+  {
+    "slug": "omissions-by-decision",
+    "title": "Omissions by Decision",
+    "summary": "Future-orientation as selective blindness—what's excluded to feel okay.",
+    "metadata": "2019",
+    "tags": [
+      "future",
+      "anxiety",
+      "selectivity",
+      "surrender",
+      "identity"
+    ],
+    "src": "/assets/Omissions_by_Decision_1769046734593-D9WYEN35.mp3",
+    "duration": 58
+  },
+  {
+    "slug": "spill-your-guts",
+    "title": "Spill Your Guts",
+    "summary": "Confrontational awakening—a call to vulnerability over self-pity.",
+    "metadata": "2019",
+    "tags": [
+      "confrontation",
+      "awakening",
+      "vulnerability",
+      "self-pity",
+      "authenticity"
+    ],
+    "src": "/assets/Spill_Your_Guts_1769048647368-BlbZYrej.mp3",
+    "duration": 181
+  },
+  {
+    "slug": "biography",
+    "title": "Biography",
+    "summary": "A life in verses—birth, growth, travel, fatherhood, loss, and the ongoing search for meaning.",
+    "metadata": "2019",
+    "tags": [
+      "life",
+      "birth",
+      "growth",
+      "fatherhood",
+      "loss",
+      "identity"
+    ],
+    "src": "/assets/Biography_(1)_1769262544745-B3stKzVI.mp3",
+    "duration": 360
+  },
+  {
+    "slug": "fixin-to-mix-in",
+    "title": "Fixin' to Mix In",
+    "summary": "Identity tension between assimilation and authenticity—blending in as survival versus exposure.",
+    "metadata": "2019",
+    "tags": [
+      "identity",
+      "assimilation",
+      "authenticity",
+      "vulnerability",
+      "self-doubt"
+    ],
+    "src": "/assets/Fixin'_to_Mix_In_1769138149667-DBPIoBgX.mp3",
+    "duration": 69
+  },
+  {
+    "slug": "cree-tent",
+    "title": "Cree Tent",
+    "summary": "Grief filtered through disorientation—seeking communal holding when private coping fails.",
+    "metadata": "2019",
+    "tags": [
+      "grief",
+      "anxiety",
+      "disorientation",
+      "community",
+      "belonging"
+    ],
+    "src": "/assets/Cree_Tent_(1)_1769322179798-34v9iFM5.mp3",
+    "duration": 99
+  },
+  {
+    "slug": "cant-admit-i-need-saving",
+    "title": "Can't Admit I Need Saving",
+    "summary": "Self-awareness stalled by pride and momentum—cosmic perspective compressed into hustle and burnout.",
+    "metadata": "2025",
+    "tags": [
+      "self-awareness",
+      "burnout",
+      "pride",
+      "hustle",
+      "impasse"
+    ],
+    "src": "/assets/Cant_Admit_I_Need_Saving_1769139564140-DXRvLzLn.mp3",
+    "duration": 100
+  }
+]

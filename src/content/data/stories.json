@@ -1,0 +1,51 @@
+[
+  {
+    "href": "/stories/nabadi",
+    "title": "Nabadi",
+    "summary": "A name that found me at a waterfall in Thailand. The inner work, poems, and presence practices that form the foundation of everything else.",
+    "metadata": "Collection",
+    "tags": [
+      "presence",
+      "identity",
+      "practice"
+    ],
+    "collection": "nabadi"
+  },
+  {
+    "href": "/stories/life-arc",
+    "title": "Life Arc",
+    "summary": "The long arc of attention — from inheritance through fracture, fatherhood, and spiritual search, toward a less personal life.",
+    "metadata": "Biography",
+    "tags": [
+      "biography",
+      "awareness",
+      "family",
+      "spirituality"
+    ],
+    "collection": "life-arc"
+  },
+  {
+    "href": "/stories/my-political-journey",
+    "title": "My Political Journey",
+    "summary": "Waking up to tribal blindness after the 2016 election — and the search for a way of seeing that holds Red, Blue, and Modern America without collapsing into any one.",
+    "metadata": "Essay",
+    "tags": [
+      "politics",
+      "integration",
+      "perspective"
+    ],
+    "collection": "my-political-journey"
+  },
+  {
+    "href": "/stories/utopia",
+    "title": "Alignment with Sustainable Abundance & The Network State",
+    "summary": "A vision of humanity's future written at the inflection point of March 2020, and the journey that followed through Balaji and Network School.",
+    "metadata": "Collection",
+    "tags": [
+      "vision",
+      "networks",
+      "future"
+    ],
+    "collection": "utopia"
+  }
+]

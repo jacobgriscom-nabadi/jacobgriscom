@@ -1,0 +1,124 @@
+{
+  "assets": [
+    {
+      "name": "USDC",
+      "label": "Stability Layer",
+      "description": "On-chain dollars for fast settlement and global movement. Useful as digital cash and a bridge between systems. Custodied risk acknowledged and contained."
+    },
+    {
+      "name": "Bitcoin (BTC)",
+      "label": "Sovereign Base Asset",
+      "description": "Fixed supply. No issuer. Censorship-resistant. Designed for long-term wealth preservation outside institutions."
+    },
+    {
+      "name": "Ethereum (ETH)",
+      "label": "Settlement & Computation Layer",
+      "description": "Programmable money and smart contracts. Foundation for decentralized finance and tokenized systems."
+    },
+    {
+      "name": "Solana (SOL)",
+      "label": "High-Performance Network",
+      "description": "Low fees, high throughput, application-first ecosystem. Exposure to consumer-scale adoption."
+    },
+    {
+      "name": "Zcash (ZEC)",
+      "label": "Privacy Layer",
+      "description": "Shielded transactions and financial confidentiality. A hedge against total surveillance."
+    }
+  ],
+  "sessions": [
+    {
+      "number": 1,
+      "title": "Exchange & Portfolio Foundation",
+      "duration": "1 hour",
+      "items": [
+        "Coinbase account creation",
+        "Security configuration",
+        "Bank connection",
+        "Initial purchases",
+        "Portfolio structure and allocation logic",
+        "Fees, withdrawals, and exchange risk"
+      ],
+      "coreLesson": "Exchanges are access points, not vaults."
+    },
+    {
+      "number": 2,
+      "title": "Software Wallets & Privacy",
+      "duration": "1 hour",
+      "items": [
+        "MetaMask setup (ETH / EVM)",
+        "Solflare setup (SOL)",
+        "Zashi setup (ZEC)",
+        "Seed phrase generation and storage discipline",
+        "Test transactions",
+        "Address hygiene",
+        "Shielded vs transparent transactions",
+        "Phishing and approval risk"
+      ],
+      "coreLesson": "From permissioned accounts to bearer assets."
+    },
+    {
+      "number": 3,
+      "title": "Cold Storage & Recovery",
+      "duration": "1 hour",
+      "items": [
+        "Hardware wallet initialization",
+        "Secure seed handling",
+        "Firmware verification",
+        "BTC, ETH, USDC, and SOL transfers to cold storage",
+        "Recovery simulation",
+        "Long-term storage model",
+        "Failure-assumed system design"
+      ],
+      "coreLesson": "Elimination of single-point-of-failure risk."
+    }
+  ],
+  "threats": [
+    "SIM swaps",
+    "Phishing and fake approvals",
+    "Exchange insolvency",
+    "Malware and key exposure",
+    "Personal operational mistakes"
+  ],
+  "practices": [
+    "Hardware-based 2FA",
+    "Password manager discipline",
+    "Transaction testing",
+    "Asset compartmentalization",
+    "\"Assume compromise\" thinking"
+  ],
+  "hardware": [
+    "BTC",
+    "ETH",
+    "USDC (on EVM chains)",
+    "SOL"
+  ],
+  "wallets": [
+    {
+      "name": "MetaMask",
+      "purpose": "ETH + EVM assets (including USDC)"
+    },
+    {
+      "name": "Solflare",
+      "purpose": "Solana ecosystem"
+    },
+    {
+      "name": "Zashi",
+      "purpose": "ZEC (shielded privacy transactions)"
+    }
+  ],
+  "stages": [
+    {
+      "stage": "Possible",
+      "description": "Understanding the cycles—why this moment, what's shifting, where the fork points. Arc & Fork provides the map."
+    },
+    {
+      "stage": "Preferable",
+      "description": "Choosing a direction—network states over legacy collapse, coordination over fragmentation. Network School provides the education."
+    },
+    {
+      "stage": "Profitable",
+      "description": "Building the infrastructure—tools that enable distributed communities to thrive. COMPART provides the coordination layer."
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Anxiety Cluster",
+    "compounds": [
+      {
+        "name": "Anxiety",
+        "formula": "1 (Fear) ± 2 (Anger)"
+      },
+      {
+        "name": "Worry",
+        "formula": "1 (Fear) + mental looping"
+      },
+      {
+        "name": "Panic",
+        "formula": "1 (Fear) at high intensity"
+      },
+      {
+        "name": "Anticipatory dread",
+        "formula": "1 (Fear) + time projection"
+      }
+    ]
+  },
+  {
+    "name": "Anger-Derived",
+    "compounds": [
+      {
+        "name": "Frustration",
+        "formula": "2 (Anger) + obstruction"
+      },
+      {
+        "name": "Irritation",
+        "formula": "2 (Anger) low-grade"
+      },
+      {
+        "name": "Rage",
+        "formula": "2 (Anger) high intensity"
+      },
+      {
+        "name": "Impatience",
+        "formula": "2 (Anger) + 1 (Fear)"
+      },
+      {
+        "name": "Hostility",
+        "formula": "2 (Anger) + 6 (Disgust)"
+      }
+    ]
+  },
+  {
+    "name": "Shame / Moral Self",
+    "compounds": [
+      {
+        "name": "Embarrassment",
+        "formula": "3 (Shame) light exposure"
+      },
+      {
+        "name": "Humiliation",
+        "formula": "3 (Shame) + 2 (Anger)"
+      },
+      {
+        "name": "Self-loathing",
+        "formula": "3 (Shame) + 6 (Disgust)"
+      },
+      {
+        "name": "Inferiority",
+        "formula": "3 (Shame) + 7 (Envy)"
+      }
+    ]
+  },
+  {
+    "name": "Guilt / Obligation",
+    "compounds": [
+      {
+        "name": "Regret",
+        "formula": "4 (Guilt) + 5 (Sadness)"
+      },
+      {
+        "name": "Remorse",
+        "formula": "4 (Guilt) high intensity"
+      },
+      {
+        "name": "Moral anxiety",
+        "formula": "4 (Guilt) + 1 (Fear)"
+      }
+    ]
+  },
+  {
+    "name": "Loss & Withdrawal",
+    "compounds": [
+      {
+        "name": "Grief",
+        "formula": "5 (Sadness) high duration"
+      },
+      {
+        "name": "Melancholy",
+        "formula": "5 (Sadness) + 9 (Numbness)"
+      },
+      {
+        "name": "Loneliness",
+        "formula": "5 (Sadness) + 7 (Envy)"
+      },
+      {
+        "name": "Heartbreak",
+        "formula": "5 (Sadness) + 1 (Fear)"
+      }
+    ]
+  },
+  {
+    "name": "Disgust / Rejection",
+    "compounds": [
+      {
+        "name": "Contempt",
+        "formula": "6 (Disgust) + 2 (Anger)"
+      },
+      {
+        "name": "Moral outrage",
+        "formula": "6 (Disgust) + 2 (Anger)"
+      },
+      {
+        "name": "Dehumanization",
+        "formula": "6 (Disgust) dominant"
+      },
+      {
+        "name": "Snobbery",
+        "formula": "6 (Disgust) + 7 (Envy)"
+      }
+    ]
+  },
+  {
+    "name": "Comparison & Status",
+    "compounds": [
+      {
+        "name": "Jealousy",
+        "formula": "7 (Envy) + 1 (Fear)"
+      },
+      {
+        "name": "Insecurity",
+        "formula": "7 (Envy) + 3 (Shame)"
+      },
+      {
+        "name": "Inferiority complex",
+        "formula": "7 (Envy) + 3 (Shame) chronic"
+      },
+      {
+        "name": "Superiority / arrogance",
+        "formula": "7 (Envy) inverted + 6 (Disgust)"
+      }
+    ]
+  },
+  {
+    "name": "Time-Accumulated States",
+    "compounds": [
+      {
+        "name": "Resentment",
+        "formula": "8 (Resentment) (anger + time + narrative)"
+      },
+      {
+        "name": "Bitterness",
+        "formula": "8 (Resentment) + 6 (Disgust)"
+      },
+      {
+        "name": "Victimhood",
+        "formula": "8 (Resentment) + 5 (Sadness) + identity"
+      },
+      {
+        "name": "Cynicism",
+        "formula": "8 (Resentment) + 9 (Numbness)"
+      }
+    ]
+  },
+  {
+    "name": "Shutdown / Low Signal",
+    "compounds": [
+      {
+        "name": "Boredom",
+        "formula": "9 (Numbness) ± 7 (Envy) ± 1 (Fear)"
+      },
+      {
+        "name": "Apathy",
+        "formula": "9 (Numbness) dominant"
+      },
+      {
+        "name": "Depression (flattened)",
+        "formula": "9 (Numbness) + 5 (Sadness)"
+      },
+      {
+        "name": "Hopelessness",
+        "formula": "9 (Numbness) + 1 (Fear) collapsed"
+      }
+    ]
+  },
+  {
+    "name": "Ego-Protective Compounds",
+    "compounds": [
+      {
+        "name": "Self-pity",
+        "formula": "5 (Sadness) + 8 (Resentment)"
+      },
+      {
+        "name": "Defensiveness",
+        "formula": "1 (Fear) + 2 (Anger)"
+      },
+      {
+        "name": "Righteousness",
+        "formula": "2 (Anger) + 6 (Disgust) + moral story"
+      },
+      {
+        "name": "Entitlement",
+        "formula": "8 (Resentment) + 7 (Envy)"
+      }
+    ]
+  }
+]

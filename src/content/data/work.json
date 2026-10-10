@@ -1,0 +1,198 @@
+{
+  "rb-communications": {
+    "slug": "rb-communications",
+    "title": "R&B Communications",
+    "summary": "Managed IT services, software development, and charter school technology solutions.",
+    "roles": [
+      "CEO",
+      "Owner"
+    ],
+    "tags": [
+      "technology",
+      "charter-schools",
+      "software",
+      "marketing"
+    ],
+    "status": "active",
+    "whatItIs": "R&B Communications provides managed business IT support, software development, workflow automation, web design, and digital marketing. We serve local businesses in Grass Valley and surrounding areas, with specialized solutions for charter schools through RB Schools—including enrollment management, audit compliance tracking, curriculum guides, and AI-powered chatbots.",
+    "whatIDo": "As CEO and Owner, I lead strategy and operations across our Core Tech, Productivity, and Marketing frameworks. I oversee our managed IT services, direct our development team building custom software solutions, and guide our specialized charter school technology division serving schools across California.",
+    "whyItMatters": "Technology should solve real problems, not create new ones. We help businesses and schools operate more efficiently, reach their communities effectively, and focus on what matters—whether that's serving customers or educating students. Our charter school tools like SELS (School Enrollment Lottery System) and ACTS (Audit Compliance Tracking System) address specific operational challenges that generic software misses.",
+    "currentInitiatives": [
+      "RB Schools Portal with customizable dashboards, document management, and gradebook systems",
+      "School Enrollment Lottery System (SELS) for streamlined charter school admissions",
+      "Audit Compliance Tracking System (ACTS) for work sample verification",
+      "AI-driven chatbots and live chat integration for school websites",
+      "Interactive Curriculum Guide for personalized student learning paths",
+      "RBSign electronic signature platform with phone support"
+    ],
+    "externalLinks": [
+      {
+        "label": "R&B Communications",
+        "url": "https://www.rb-com.com"
+      },
+      {
+        "label": "RB Schools",
+        "url": "https://rb-schools.com"
+      }
+    ]
+  },
+  "ai-edtech-mastermind": {
+    "slug": "ai-edtech-mastermind",
+    "title": "AI & EdTech MasterMind for Charter Schools",
+    "summary": "Bringing AI innovation to charter school education.",
+    "roles": [
+      "Facilitator",
+      "Curator"
+    ],
+    "tags": [
+      "education",
+      "ai",
+      "charter-schools"
+    ],
+    "status": "active",
+    "whatItIs": "A collaborative network of charter school leaders exploring how artificial intelligence can enhance learning outcomes, streamline operations, and prepare students for an AI-augmented future.",
+    "whatIDo": "I facilitate connections between forward-thinking educators, curate the best tools and practices, and create space for honest dialogue about both the opportunities and risks of AI in education.",
+    "whyItMatters": "Education is at an inflection point. AI will transform how we teach and learn. Charter schools have the flexibility to experiment and iterate. This network helps them do so wisely.",
+    "currentInitiatives": [
+      "Monthly mastermind sessions on AI tools and practices",
+      "Pilot programs for AI-assisted personalized learning",
+      "Teacher training and professional development",
+      "Documentation of best practices and lessons learned"
+    ],
+    "externalLinks": [
+      {
+        "label": "MasterMind Community",
+        "url": "https://portal.rb-com.com"
+      }
+    ]
+  },
+  "ncbn": {
+    "slug": "ncbn",
+    "title": "Nevada County Business Network",
+    "summary": "Promoting Nevada County businesses with enthusiasm through weekly referral networking.",
+    "roles": [
+      "Founder",
+      "Member",
+      "Platform Developer"
+    ],
+    "tags": [
+      "networks",
+      "community",
+      "local",
+      "technology"
+    ],
+    "status": "active",
+    "whatItIs": "NCBN supports professionals who meet weekly to give each other business referrals. Based in Grass Valley, California, the network covers Auburn, Colfax, Nevada City, and Penn Valley. Our core values center on positive attitude, servant leadership, commitment to customers, continuous learning, celebration, and teamwork.",
+    "whatIDo": "I founded NCBN and continue as an active member. I also developed the technology platform that tracks inter-member referrals and meetups, enabling the network to measure its impact and strengthen connections between members.",
+    "whyItMatters": "Local economies thrive when business owners know and trust each other. NCBN creates the conditions for that trust to develop organically through regular interaction, shared purpose, and genuine service to one another. The technology layer makes the invisible work of networking visible.",
+    "currentInitiatives": [
+      "Weekly networking sessions across Nevada County",
+      "Referral tracking platform for measuring network activity",
+      "Member portal for connection and resource sharing",
+      "Community celebration events and business recognition"
+    ],
+    "externalLinks": [
+      {
+        "label": "NCBN Website",
+        "url": "https://nevadacountybusiness.com"
+      },
+      {
+        "label": "NCBN on Facebook",
+        "url": "https://www.facebook.com/nevadacountybusiness"
+      }
+    ]
+  },
+  "compart": {
+    "slug": "compart",
+    "title": "COMPART",
+    "summary": "Coordination infrastructure for networked communities.",
+    "roles": [
+      "Contributor",
+      "Community Builder"
+    ],
+    "tags": [
+      "networks",
+      "coordination",
+      "technology"
+    ],
+    "status": "active",
+    "whatItIs": "COMPART is coordination infrastructure for networked communities. It provides the tools and protocols that enable distributed collaboration at scale — a bridge between where we are and where we could be.",
+    "whatIDo": "I contribute to the development of COMPART's coordination tools and help build communities that use the platform. I also help connect the vision of network states with practical implementation.",
+    "whyItMatters": "The concept of the network state suggests that communities can achieve coherence and coordination without traditional geographic boundaries. COMPART provides the practical infrastructure for this vision — governance infrastructure for the 21st century.",
+    "currentInitiatives": [
+      "Building coordination tools for distributed communities",
+      "Connecting mission-aligned groups across the network",
+      "Developing reputation and resource sharing protocols",
+      "Bridging spiritual community with network state concepts"
+    ],
+    "externalLinks": [
+      {
+        "label": "COMPART Website",
+        "url": "https://compart.network"
+      },
+      {
+        "label": "Network School (Referral)",
+        "url": "https://ns.com/jacobgriscom/invite"
+      }
+    ]
+  },
+  "vitalpool": {
+    "slug": "vitalpool",
+    "title": "VitalPool",
+    "summary": "A competitive health accountability platform designed to convert intention into measurable change.",
+    "roles": [
+      "Founder",
+      "Designer"
+    ],
+    "tags": [
+      "health",
+      "accountability",
+      "incentives",
+      "competition"
+    ],
+    "status": "active",
+    "whatItIs": "VitalPool is a competitive health accountability platform. Participants commit to a defined health objective over a fixed cycle, stake monthly capital into a shared pool, and track progress through objective data and daily proof of action. Performance is ranked transparently. At the end of each cycle, pooled funds are redistributed to the top performers. The platform combines verified health data (labs, body composition, functional tests), behavioral commitment (explicit habit selection and daily accountability), economic incentive (real money at stake), and social pressure (leaderboards and peer visibility).",
+    "whatIDo": "I'm designing and building VitalPool from the ground up — defining the competitive structure, data verification systems, staking mechanics, and accountability frameworks. The goal is to create a mechanism where doing the hard thing becomes the rational choice.",
+    "whyItMatters": "VitalPool exists to answer one question: what happens when health is treated as a competitive system instead of a private intention? The platform is not coaching, content, or motivation. It is a mechanism — align incentives so that the rational choice and the healthy choice become the same thing. The result is fewer excuses, faster feedback, and durable change driven by accountability rather than willpower.",
+    "currentInitiatives": [
+      "Designing competitive cycle structure with staking and redistribution mechanics",
+      "Building verified health data integration (labs, body composition, functional tests)",
+      "Creating daily proof-of-action accountability system",
+      "Developing transparent leaderboards and peer visibility features",
+      "Defining objective scoring criteria across multiple health dimensions"
+    ],
+    "externalLinks": []
+  },
+  "debatehub": {
+    "slug": "debatehub",
+    "title": "DebateHUB",
+    "summary": "A competitive platform for structured debate, converting disagreement into a measurable skill.",
+    "roles": [
+      "Founder",
+      "Designer"
+    ],
+    "tags": [
+      "debate",
+      "reasoning",
+      "civic-infrastructure",
+      "ai"
+    ],
+    "status": "active",
+    "whatItIs": "DebateHUB is a competitive platform for structured debate, built on the same principles that made chess enduring: formal rules, constrained play, transparent evaluation, and skill progression over time. Debate on DebateHUB is not discussion—it is a match. Every debate runs inside a defined format with timed turns, scoped claims, explicit burdens of proof, and clear resolution criteria. Participants are evaluated on argument quality—coherence, evidence use, logical validity, responsiveness—not popularity, tone, or volume. Outcomes are legible. Records persist.",
+    "whatIDo": "I'm designing and building DebateHUB from the ground up—defining the formal debate structures, progression systems, and evaluation frameworks. The vision is to create infrastructure where reasoning quality becomes observable and where demonstrated competence unlocks increasingly sophisticated forms of discourse.",
+    "whyItMatters": "At scale, DebateHUB becomes civic infrastructure. Because debates are structured, rated, and public, society gains visibility into which arguments actually survive pressure—on timeless questions and acute, news-driven controversies alike. Volatile news cycles are tempered by logic. Talking points decay quickly under replay and comparison. AI functions as a neutral arbiter of argument quality. It does not determine truth; it enforces discipline. Propaganda loses its edge. Charisma stops substituting for understanding. Public figures cannot hide behind surface familiarity—weak reasoning accumulates as evidence, strong reasoning compounds as reputation. Over time, DebateHUB ratings become portable credibility—usable in education, law, civil discourse, and commercial decision-making.",
+    "currentInitiatives": [
+      "Designing formal debate formats with timed turns and explicit burdens of proof",
+      "Building structured lessons and quizzes teaching reasoning mechanics",
+      "Creating debate puzzles: compressed argument scenarios for pattern recognition",
+      "Developing AI-powered debate evaluation and rule enforcement",
+      "Designing skill progression from lessons to puzzles to AI debates to live human matches"
+    ],
+    "externalLinks": [
+      {
+        "label": "DebateHUB Website",
+        "url": "https://debatehub.network"
+      }
+    ]
+  }
+}

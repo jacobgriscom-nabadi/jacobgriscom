@@ -1,0 +1,98 @@
+[
+  {
+    "pattern": "Function Health",
+    "href": "https://my.functionhealth.com/signup?code=JGRISCOM10&_saasquatch=JGRISCOM10&d=FHREF25",
+    "external": true,
+    "testId": "link-function-health"
+  },
+  {
+    "pattern": "Network School",
+    "href": "https://ns.com/jacobgriscom/invite",
+    "external": true,
+    "testId": "link-network-school"
+  },
+  {
+    "pattern": "COMPART",
+    "href": "/work/compart",
+    "external": false,
+    "testId": "link-compart"
+  },
+  {
+    "pattern": "R&B Communications",
+    "href": "/work/rb-communications",
+    "external": false,
+    "testId": "link-rb-communications"
+  },
+  {
+    "pattern": "AI & EdTech Mastermind",
+    "href": "/work/ai-edtech-mastermind",
+    "external": false,
+    "testId": "link-ai-edtech-mastermind"
+  },
+  {
+    "pattern": "AI & EdTech MasterMind",
+    "href": "/work/ai-edtech-mastermind",
+    "external": false,
+    "testId": "link-ai-edtech-mastermind"
+  },
+  {
+    "pattern": "246 Happenings",
+    "href": "/network",
+    "external": false,
+    "testId": "link-246-happenings"
+  },
+  {
+    "pattern": "246Happenings",
+    "href": "/network",
+    "external": false,
+    "testId": "link-246-happenings"
+  },
+  {
+    "pattern": "School for Servants & Heroes",
+    "href": "/network#servants-heroes",
+    "external": false,
+    "testId": "link-school-servants-heroes"
+  },
+  {
+    "pattern": "VitalPool",
+    "href": "/updates#opting-out-of-disease-management",
+    "external": false,
+    "testId": "link-vitalpool"
+  },
+  {
+    "pattern": "JacobGriscom.com",
+    "href": "/",
+    "external": false,
+    "testId": "link-jacobgriscom"
+  },
+  {
+    "pattern": "Network Unions",
+    "href": "/stories/utopia",
+    "external": false,
+    "testId": "link-network-unions"
+  },
+  {
+    "pattern": "Network Union",
+    "href": "/stories/utopia",
+    "external": false,
+    "testId": "link-network-union"
+  },
+  {
+    "pattern": "Network State",
+    "href": "/stories/utopia",
+    "external": false,
+    "testId": "link-network-state"
+  },
+  {
+    "pattern": "Awareness Library",
+    "href": "/library",
+    "external": false,
+    "testId": "link-awareness-library"
+  },
+  {
+    "pattern": "Integral Theory",
+    "href": "/library",
+    "external": false,
+    "testId": "link-integral-theory"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "href": "/stories",
+    "title": "Stories",
+    "summary": "Nabadi, Life Arc, My Political Journey, and the vision of sustainable abundance — narratives weaving presence, meaning, and humanity's future.",
+    "metadata": "Collections"
+  },
+  {
+    "href": "/work",
+    "title": "Work",
+    "summary": "R&B, MasterMind, NCBN, COMPART, DebateHUB, VitalPool, and Crypto Sovereignty — building infrastructure for connection, collaboration, and sovereignty.",
+    "metadata": "Professional"
+  },
+  {
+    "href": "/music",
+    "title": "Music",
+    "summary": "Poetry, rap, and AI-generated soundscapes — a creative journal.",
+    "metadata": "Creative Process"
+  },
+  {
+    "href": "/network",
+    "title": "Network",
+    "summary": "People, communities, and the connections that matter.",
+    "metadata": "Connections"
+  },
+  {
+    "href": "/updates",
+    "title": "Now",
+    "summary": "Reflections, Signs & Omens, and notes on what I'm working on, learning, and thinking about.",
+    "metadata": "Updates"
+  },
+  {
+    "href": "/library",
+    "title": "Awareness",
+    "summary": "Explorations of perception, meditation, and the gradual release of interference.",
+    "metadata": "Explorations"
+  }
+]
